@@ -6,7 +6,7 @@ export default function FavoriteIcon() {
     <>
       <Ionicons
         name="heart"
-        size={30}
+        size={50}
         color="red"
         style={styles.icon}
       />
